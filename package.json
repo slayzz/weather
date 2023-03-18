@@ -1,0 +1,25 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Denis Gnatiuk",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://superlol.com"
+  },
+  "bugs": {
+    "url": "https://superlol.com",
+    "email": "slayzzzzz@gmail.com"
+  }
+}
